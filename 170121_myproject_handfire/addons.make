@@ -1,0 +1,6 @@
+ofxBox2d
+ofxFluid
+ofxFX
+ofxGui
+ofxKinectCommonBridge
+ofxOpenCv

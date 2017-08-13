@@ -1,0 +1,33 @@
+<group>
+	<fullscreen__F_>0</fullscreen__F_>
+	<dissipation>0.917</dissipation>
+	<vel-dissipation>0.8</vel-dissipation>
+	<L_Force>26.375</L_Force>
+	<R_Force>24.635</R_Force>
+	<L_Color_R>1</L_Color_R>
+	<L_Color_G>0.5</L_Color_G>
+	<L_Color_B>0</L_Color_B>
+	<R_Color_R>0</R_Color_R>
+	<R_Color_G>0.5</R_Color_G>
+	<R_Color_B>1</R_Color_B>
+	<depth_dis>125</depth_dis>
+	<depth_ave>0.2</depth_ave>
+	<depth_draw>0</depth_draw>
+	<Skeleton_draw>1</Skeleton_draw>
+<group/>
+	<screen_size>1280x960</screen_size>
+	<lHand_draw>1</lHand_draw>
+	<lHand_color>0.913265, 0.52551, 0, 1</lHand_color>
+	<rHand_draw>1</rHand_draw>
+	<rHand_color>0.19898, 0.607143, 1, 1</rHand_color>
+	<head_draw>0</head_draw>
+	<Head_color>0.94898, 0.153061, 0.0204082, 1</Head_color>
+	<Hip_draw>0</Hip_draw>
+	<Hip_color>0.964286, 0, 0, 1</Hip_color>
+	<lFoot_draw>1</lFoot_draw>
+	<lFoot_color>0.709184, 0.719388, 0, 1</lFoot_color>
+	<rFoot_draw>0</rFoot_draw>
+	<rFoot_color>0, 0.596939, 0.612245, 1</rFoot_color>
+<C_Force>5</C_Force>
+	<velocity>16</velocity>
+</group>
